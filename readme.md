@@ -1,0 +1,1 @@
+Archivo qgis3d
